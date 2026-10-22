@@ -1,0 +1,10 @@
+{
+  "dictDir": "lib/i18n/messages",
+  "base": "en",
+  "root": ".",
+  "locales": ["en", "zh", "ja", "vi", "th", "id", "ms", "fil", "hi", "ar", "ko"],
+  "sources": ["app/**", "components/**", "lib/**"],
+  "translate": "t",
+  "ignore": ["demo.*", "cat.*", "status.*"],
+  "placeholders": true
+}

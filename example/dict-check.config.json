@@ -1,0 +1,8 @@
+{
+  "dictDir": "messages",
+  "base": "en",
+  "root": ".",
+  "sources": ["src/**"],
+  "ignore": [],
+  "placeholders": true
+}

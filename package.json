@@ -1,0 +1,25 @@
+{
+  "name": "dict-check",
+  "version": "1.0.0",
+  "description": "Keep flat translation dictionaries in lockstep across locales: parity, placeholders, static t() references, and a one-command add for new keys.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "dict-check": "./dict-check.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "i18n",
+    "internationalization",
+    "translations",
+    "dictionary",
+    "locales",
+    "lint",
+    "cli"
+  ],
+  "scripts": {
+    "test": "node test/run.mjs"
+  }
+}
